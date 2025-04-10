@@ -331,26 +331,23 @@ header a{
     justify-content:center;
     align-items: center;
     background: linear-gradient(135deg, #b8c6db, #e4e9f2);
-    margin-top: 0;
-    height: 420px;
-    display: flex;
-  
-
+    
+   
 }
 .title2 {
     display: block;
-    position: absolute;
+    position: relative;
     left: 2px;
-    top: 900px;
+    top: 200px;
     font-size: large;
     color: #000;
 }
 .title3 {
     display: flex;
     justify-content: flex-start;
-    position: absolute;
-    left: 2px;
-    top: 920px;
+    position: relative;
+    left: 10px;
+    top: 200px;
     font-size: x-small;
     color: #000;
 }
